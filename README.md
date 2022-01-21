@@ -24,4 +24,5 @@ hopeless ideas/goals here
 - shadowsocks-rust w/o rust (???)
 - contribute container stuff for openbsd
 - the c structure documentation project
-these are open for colabs, feel free to contact
+
+all of these are open for colabs, feel free to contact
